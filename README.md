@@ -1,1 +1,7 @@
-# hello-world
+# hello-world```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
